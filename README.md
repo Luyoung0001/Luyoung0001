@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luyoung0001&label=Profile%20views&color=0e75b6&style=flat" alt="luyoung0001" /> </p>
 
-- 🔭 I’m currently working on [debugger with C++](privite link.)
+- 🔭 I’m currently working on [C++ Course Design](https://github.com/Luyoung0001/cpp_design)
 
 - 🌱 I’m currently learning **C++、Golang、MultiThreads、Linux**
 
-- 📝 I regularly write articles on [https://blog.csdn.net/m0_73651896?spm=1010.2135.3001.5343](https://blog.csdn.net/m0_73651896?spm=1010.2135.3001.5343)
+- 📝 I regularly write articles on [CSDN](https://blog.csdn.net/m0_73651896?spm=1010.2135.3001.5343)
 
 - 📫 How to reach me **luyoung0001@gmail.com**
 
@@ -25,14 +25,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luyoung0001&" alt="luyoung0001" /></p>
 
-
-<div align="center">
+<p><div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luyoung0001&layout=compact" />
 
-</div>
+</div></p>
 
-<div align="center">
+<p><div align="center">
   <img  src="https://activity-graph.herokuapp.com/graph?username=Luyoung0001&theme=minimal" />
-</div>
+</div></p>
 
 
