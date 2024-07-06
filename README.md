@@ -8,7 +8,7 @@
 <p align="left">
     🔭 I’m currently working on <a href="https://github.com/Luyoung0001/cpp_design">C++ Course Design</a><br>
     🌱 I’m currently learning C++, Golang, MultiThreads, Linux<br>
-    📝 I regularly write articles on <a href="https://blog.csdn.net/m0_73651896?spm=1010.2135.3001.5343">CSDN</a><br>
+    📝 I regularly write articles on <a href="https://luyoung0001.github.io/">Luyoung</a><br>
     📫 How to reach me: luyoung0001@gmail.com
 </p>
 
