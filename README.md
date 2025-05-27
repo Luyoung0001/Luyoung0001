@@ -6,7 +6,6 @@
 </p>
 
 <p align="left">
-    🔭 I’m currently working on <a href="https://github.com/XUPTF4/CPU_based_on_MIPS">CPU_based_on_MIPS</a><br>
     🌱 I’m currently learning how to start linux on my CPU.<br>
     📝 I regularly write articles on <a href="https://blog.luliang.online/">Luyoung</a><br>
     📫 How to reach me: luyoung0001@gmail.com
