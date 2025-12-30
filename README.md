@@ -50,9 +50,6 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats-card.vercel.app/?user=luyoung0001&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FF7B72&fire=FF7B72&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luyoung0001&label=访客总数&color=0e75b6&style=for-the-badge" />
