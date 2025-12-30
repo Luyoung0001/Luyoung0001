@@ -22,7 +22,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://blog.luliang.online" target="blank">
+  <a href="https://blog.luliang.website" target="blank">
     <img align="center" src="https://img.shields.io/badge/博客-我的博客-FF6347?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjRkZGRkZGIiIGQ9Ik0xMCA1djloMlY1aDJ2MTNoLTJ2OS0yem0wIDB2MmgxMlY1SDEwVjV6Ii8+PC9zdmc+&logoWidth=20" alt="My Blog" />
   </a>
   <a href="mailto:luyoung0001@gmail.com" target="blank">
@@ -51,12 +51,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luyoung0001&show_icons=true&locale=en&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=C9D1D9&text_color=8B949E&include_all_commits=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luyoung0001&layout=compact&langs_count=8&locale=en&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=C9D1D9&text_color=8B949E" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luyoung0001&locale=en&hide_border=true&bg_color=0D1117&stroke=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&ring=FFFFFF&fire=FF7B72&sideImg=0D1117" />
+  <img src="https://streak-stats-card.vercel.app/?user=luyoung0001&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FF7B72&fire=FF7B72&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 </p>
 
 <p align="center">
