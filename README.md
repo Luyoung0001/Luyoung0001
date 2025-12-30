@@ -1,29 +1,67 @@
-<h2 align="left">Hi 👋, I'm Luyoung</h1>
-<h3 align="right">A passionate developer from China</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Luyoung!👋;A+Passionate+Developer+from+China&center=true&width=360&height=50">
+  </a>
+</h1>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=luyoung0001&label=Profile%20views&color=0e75b6&style=flat" alt="luyoung0001" />
+<h3 align="center">I'm a Computer Architecture and OS Enthusiast from China 🇨🇳</h3>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 I'm currently deep-diving into **Operating System Internals** and **Computer Architecture**.
+- 🔭 My current exciting project is **bringing up a custom Linux distribution on my own CPU core**.
+- 🌱 I'm actively learning about **High-Performance Computing (HPC)**, **FPGA**, and **SoC Design**.
+- 👯 I’m looking to collaborate on **open-source projects related to low-level software or hardware**.
+- 💬 Feel free to ask me about anything related to **C/C++, Python, Linux, Verilog, or FPGA**.
+- 📫 How to reach me: **luyoung0001@gmail.com**.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://blog.luliang.online" target="blank">
+    <img align="center" src="https://img.shields.io/badge/博客-我的博客-FF6347?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjRkZGRkZGIiIGQ9Ik0xMCA1djloMlY1aDJ2MTNoLTJ2OS0yem0wIDB2MmgxMlY1SDEwVjV6Ii8+PC9zdmc+&logoWidth=20" alt="My Blog" />
+  </a>
+  <a href="mailto:luyoung0001@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/邮箱-luyoung0001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- 你可以在这里添加 LinkedIn, Twitter 等链接 -->
 </p>
 
-<p align="left">
-    🌱 I’m currently learning how to start linux on my CPU.<br>
-    📝 I regularly write articles on <a href="https://blog.luliang.online/">Luyoung</a><br>
-    📫 How to reach me: luyoung0001@gmail.com
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+### 📊 GitHub Analytics
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luyoung0001&show_icons=true&locale=en&layout=compact" alt="luyoung0001" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luyoung0001&show_icons=true&locale=en&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=C9D1D9&text_color=8B949E&include_all_commits=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luyoung0001&layout=compact&langs_count=8&locale=en&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=C9D1D9&text_color=8B949E" />
+</p>
 
-<div align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=luyoung0001&show_icons=true&locale=en" alt="luyoung0001" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luyoung0001&locale=en&hide_border=true&bg_color=0D1117&stroke=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&ring=FFFFFF&fire=FF7B72&sideImg=0D1117" />
+</p>
 
-<div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luyoung0001" alt="luyoung0001" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luyoung0001&label=访客总数&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
 
