@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently deep-diving into **Operating System Internals** and **Computer Architecture**.
-- 🔭 My current exciting project is **bringing up a custom Linux distribution on my own CPU core**.
-- 🌱 I'm actively learning about **High-Performance Computing (HPC)**, **FPGA**, and **SoC Design**.
-- 👯 I’m looking to collaborate on **open-source projects related to low-level software or hardware**.
-- 💬 Feel free to ask me about anything related to **C/C++, Python, Linux, Verilog, or FPGA**.
+- 🎓 I work on operating systems, computer architecture, LLVM backends, and large language models.
+- 🔭 My current focus is on LLM-related projects and the so-called RISC-VI plan.
+- 🌱 I am currently learning more about large language models and exploring how agents, compilers,and computer systems can work together.
+- 👯 I am open to collaboration on low-level software, hardware, compiler infrastructure, and AI-assisted systems.
+- 💬 Ask me about agents, computer architecture, LLMs, compilers, and computer systems.
 - 📫 How to reach me: **luyoung0001@gmail.com**.
 
 ---
